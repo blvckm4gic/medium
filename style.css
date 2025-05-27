@@ -336,6 +336,10 @@ hr {
     .links{
     margin-left: 200px;
     }
+
+        .info-text{
+        width: 700px;
+    }
 }
 
 @media only screen and (max-width: 576px) {
@@ -375,4 +379,9 @@ hr {
     .big-photo{
         width: 500px;
     }
+
+    .info-text{
+        width: 500px;
+    }
+
 }
